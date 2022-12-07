@@ -11,7 +11,7 @@ function EyesOnMe() {
         console.log("Hey! Eyes on me!");
       }}
     >
-      EyesOnMe
+      Eyes On Me
     </button>
   );
 }
