@@ -4,6 +4,7 @@ import React from "react";
 function EyesOnMe() {
   return (
     <button
+      style={{ backgroundColor: "red;" }}
       onFocus={(e) => {
         console.log("Good");
       }}
